@@ -31,4 +31,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.Никитин1</commonModules>
+  <commonModules>CommonModule.Неудахин1</commonModules>
 </mdclass:Configuration>
