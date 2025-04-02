@@ -2,5 +2,5 @@ projectKey=GitTest
 serverUrl=http://localhost:9000
 serverVersion=8.9.10.61524
 dashboardUrl=http://localhost:9000/dashboard?id=GitTest
-ceTaskId=AZX3S4oQfGhpdI7k9-CF
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AZX3S4oQfGhpdI7k9-CF
+ceTaskId=AZX3dpJwfGhpdI7k9-CI
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZX3dpJwfGhpdI7k9-CI
