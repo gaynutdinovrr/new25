@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ed664c8a-8598-412f-8f93-fd17241e901b">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="37cb4ebd-d98f-48c3-9e1a-8d3d92717fe1"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="68bada6f-6bfb-4254-a4cf-3dc7332e08ff"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="3a96726e-9920-446d-8031-ca6071e4a000"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="5df1d7b1-7bbb-4460-ba4b-3d11e02191c5"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="17e71887-ba7c-4ae7-86b5-966e83da6b69"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="b88b3077-ce9d-41c0-96f5-81bd9deedc6f"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="6d17fc26-aa83-4e47-8bb5-e38b44c5b931"/>
+  <configurationExtensionCompatibilityMode>8.3.17</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <requiredMobileApplicationPermissions>
+    <permission>AllowOSBackup</permission>
+    <use>true</use>
+  </requiredMobileApplicationPermissions>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.17</compatibilityMode>
+  <languages uuid="e03613e4-721a-4926-9011-53beb7ec9458">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
